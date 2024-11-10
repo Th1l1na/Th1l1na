@@ -38,5 +38,6 @@
 </a>
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=th1l1na&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="th1l1na"  />
+<br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1l1na&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
 </div>
